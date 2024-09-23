@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TSerena00
-- 👀 I’m interested in computer sciencea, software, and environmental initiatives.
+- 👀 I’m interested in computer science, software, and environmental initiatives.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on video games and mobile applications.
 - 📫 How to reach me ... email serenatruong00@gmail.com
